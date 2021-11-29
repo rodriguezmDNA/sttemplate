@@ -1,0 +1,11 @@
+#streamlit==0.84
+#s3fs==2021.6
+#awswrangler==2.8
+#boto3
+#botocore
+#torch
+streamlit
+matplotlib_venn
+matplotlib
+seaborn
+
